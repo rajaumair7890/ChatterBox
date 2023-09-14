@@ -2,7 +2,8 @@
 
 "Welcome to our ChatterBox, An Android Private Chat Application! 📱✉️
 
-Built using the latest Android APIs and following best practices,
+Built using the latest Android APIs and following best practices, MVVM Architecture, JetPack Compose, And FireBase Google Authentication with Cloud Firestore Database!
+
 This app offers a seamless and secure messaging experience.
 The user interface is sleek and modern, crafted with Jetpack Compose, providing an intuitive and responsive design.
 
