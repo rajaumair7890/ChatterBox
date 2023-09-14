@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatterBox</string>
+    <string name="search_place_holder">Search Users</string>
+    <string name="message_place_holder">"Type Your Message"</string>
+    <string name="signing_in_message">Signing You in…!</string>
+    <string name="please_wait">Please Wait!</string>
+    <string name="error_message_line_1">Oops… Something went wrong while signing in!</string>
+    <string name="error_message_line_2">Here are some suggestion:</string>
+    <string name="error_message_line_3">1. Check your network</string>
+    <string name="error_message_line_4">2. Try again in a few minutes</string>
+
+</resources>
