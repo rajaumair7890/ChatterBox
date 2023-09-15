@@ -14,3 +14,13 @@ Data is securely stored and synchronized using Cloud Firestore, guaranteeing rea
 
 Whether you're looking to implement a private chat feature in your own app or simply curious about Android development at its finest,
 this repository is your go-to resource. Dive into the code, explore our robust architecture, and elevate your Android app development skills to the next level! 🔒💬🚀"
+
+# Note
+
+I've excluded some things from the code due to privacy and security purposes
+you've to make a new project in firebase console and add these things on your own,
+if you plan to clone the repository because it won't work out of the box.
+* google-services.json
+* A string resource for the API key.
+* Build the project and copy sha-1 hash for both debug and release built
+* paste it in firebase console for authentication to work.
