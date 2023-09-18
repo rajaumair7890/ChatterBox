@@ -2,7 +2,7 @@
 
 "Welcome to our ChatterBox, An Android Private Chat Application! 📱✉️
 
-![ScreenShot](/ChatterBoxCover.png)
+![ScreenShot](/ChatterBoxCover(1).png)
 
 Built using the latest Android APIs and following best practices, MVVM Architecture, JetPack Compose, And FireBase Google Authentication with Cloud Firestore Database!
 
